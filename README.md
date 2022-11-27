@@ -8,3 +8,4 @@ to make actions like click or right click
  - run ``` pip install opencv-python mediapipe pyautogui ```
  - run ``` python main.py ```
 
+# packages overview
