@@ -7,5 +7,3 @@ to make actions like click or right click
  - Clone the repository to your device
  - run ``` pip install opencv-python mediapipe pyautogui ```
  - run ``` python main.py ```
-
-# packages overview
